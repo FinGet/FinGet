@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![FinGet's GitHub stats](https://github-readme-stats.vercel.app/api?username=FinGet)](https://github.com/anuraghazra/github-readme-stats)
+![FinGet's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FinGet&layout=compact&hide_border=true&langs_count=10)
